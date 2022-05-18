@@ -1,1 +1,2 @@
-这里是config-test配置
+config:
+  info:springcloud-config-test version1
